@@ -7,7 +7,7 @@ Javascript BDD
 2. Utilising factories, Mocha and Sinon
 
 3. Adding duplication to my code with triangulation, to expose patterns that help to discover the correct algorithm 
-   gand design I need to use
+   and design I need to use
 
 4. Using parameterised testing
 
